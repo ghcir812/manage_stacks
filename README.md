@@ -49,8 +49,11 @@ dry_run = True
   ask_dry_run = False
 
   print("== Delete navapi stacks ==")
+  
   print("0 - exit")
+  
   print("1 - list dev  stacks")
+  
   print("2 - list prod stacks")
   print("3 - list all  stacks")
   print("======")
