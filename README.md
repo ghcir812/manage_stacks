@@ -55,13 +55,21 @@ dry_run = True
   print("1 - list dev  stacks")
   
   print("2 - list prod stacks")
+  
   print("3 - list all  stacks")
+  
   print("======")
+  
   print("4 - delete dev  stacks")
+  
   print("5 - delete prod stacks")
+  
   print("6 - delete all  stacks")
+  
   print("======")
+  
   print("7 - delete stack by name")
+  
   print("======")
 
   choice = input("??? what would you like to do? ")
